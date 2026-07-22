@@ -1,0 +1,2 @@
+My project is a Rule-Based Al Chatbot developed using Python. The main objective is to create a chatbot that responds to predefined user inputs using if-else conditions. The chatbot runs continuously in a loop, accepts user messages, and provides appropriate responses for greetings, common questions, and exit commands. If the input is not recognized, it displays a default response. This project helps in understanding the basics of Artificial Intelligence, control flow, and decision-making logic without using
+
